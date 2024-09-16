@@ -1,0 +1,5 @@
+com\mycompany\command3\LightOnCommand.class
+com\mycompany\command3\Light.class
+com\mycompany\command3\RemoteControl.class
+com\mycompany\command3\Client.class
+com\mycompany\command3\Command.class
